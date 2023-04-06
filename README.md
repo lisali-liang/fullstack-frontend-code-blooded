@@ -1,9 +1,9 @@
 # 2022 Full Stack Project: Code Blooded
 ## Project Main Roles
-#### Selina: Frontend
-#### Tia: Frontend
-#### Lisa: Backend
-#### Malak: Auth0
+#### Selina: Design/Frontend
+#### Tia: Design/Frontend
+#### Lisa: Design/Backend
+#### Malak: Auth0/Backend
 
 ## Project Description
 + A multiplayer speed card game
